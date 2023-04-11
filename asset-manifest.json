@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SDP_JobGenius/static/css/main.99e571c4.css",
+    "main.js": "/SDP_JobGenius/static/js/main.69898f85.js",
+    "static/js/703.041860bd.chunk.js": "/SDP_JobGenius/static/js/703.041860bd.chunk.js",
+    "static/js/598.23f1297a.chunk.js": "/SDP_JobGenius/static/js/598.23f1297a.chunk.js",
+    "index.html": "/SDP_JobGenius/index.html",
+    "main.99e571c4.css.map": "/SDP_JobGenius/static/css/main.99e571c4.css.map",
+    "main.69898f85.js.map": "/SDP_JobGenius/static/js/main.69898f85.js.map",
+    "703.041860bd.chunk.js.map": "/SDP_JobGenius/static/js/703.041860bd.chunk.js.map",
+    "598.23f1297a.chunk.js.map": "/SDP_JobGenius/static/js/598.23f1297a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e571c4.css",
+    "static/js/main.69898f85.js"
+  ]
+}
